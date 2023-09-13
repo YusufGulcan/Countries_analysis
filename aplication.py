@@ -140,9 +140,9 @@ def kendi_inflectim(x):
 
 metrics, choro_map, data_df = st.columns([1.8, 6, 2.2])
 with metrics:
-    st.metric("", "", "")
-    st.metric("", "", "")
-    st.metric("", "", "")
+    st.metric("abca", "", "", label_visibility = "hidden")
+    st.metric("abca", "", "", label_visibility = "hidden")
+    st.metric("abca", "", "", label_visibility = "hidden")
 
     st.metric(
         f"Highest {metric_choro} - {country_highest}",
@@ -188,9 +188,9 @@ with choro_map:
     st.plotly_chart(fig5, theme="streamlit", use_container_width=True)
 
 with data_df:
-    st.metric("", "", "")
-    st.metric("", "", "")
-    st.metric("", "", "")
+    st.metric("asda", "", "",label_visibility="hidden")
+    st.metric("asda", "", "",label_visibility="hidden")
+    st.metric("asda", "", "",label_visibility="hidden")
     st.dataframe(
         chorodata[chorodata.Year == 2022][["Country Name", metric_choro]], height=480
     )
