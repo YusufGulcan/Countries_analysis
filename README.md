@@ -1,6 +1,7 @@
 # Data Analysis Project - World Bank Database
 
-![newplot](https://github.com/YusufGulcan/Countries_analysis/assets/105684729/790578f0-3659-4ad6-bdf3-ea1b4837a125)
+![image](https://github.com/YusufGulcan/Countries_analysis/assets/105684729/2e1ac8c0-6bd1-4699-9787-35b890a1a006)
+
 
 
 ## Overview
@@ -47,8 +48,7 @@ To explore the data and visualizations, follow these steps:
 ![newplot-scatter](https://github.com/YusufGulcan/Countries_analysis/assets/105684729/60bfa19f-e1e1-4736-a9db-7abcc332bbca)
 
 ## Contributors
-
-- [Yusuf Gulcan]
+Yusuf Gulcan
 
 
 ## License
