@@ -24,6 +24,36 @@ This project focuses on data analysis using the World Bank Database as the prima
 - The primary goal of this project is to empower users to explore and gain insights into various global metrics.
 - The project offers a user-friendly interface with interactive visualizations and filtering options to allow users to delve deeper into the data.
 
+Certainly, here's an additional section in your README file that describes what users can learn from the application:
+
+## Insights and Metrics
+
+Users of this application can gain valuable insights and generate ideas about the general situations of countries in various areas by comparing the following metrics:
+
+### Economic Metrics:
+- **Gross Domestic Product (GDP):** Understand the economic strength of countries.
+- **Agricultural Activities (% in GDP):** Explore the importance of agriculture in the economy.
+- **Industry Activities (% in GDP):** Analyze the contribution of industrial sectors to the GDP.
+- **Service Activities (% in GDP):** Evaluate the significance of the service industry.
+- **Educational Expenditures (% in GDP):** Examine investments in education.
+- **Health Expenditures (% in GDP):** Assess healthcare spending.
+- **Import (% in GDP):** Explore the value of imported goods and services.
+- **Export (% in GDP):** Understand the value of exported goods and services.
+- **Educational Expenditures (Nominal):** Compare nominal spending on education.
+- **Health Expenditures (Nominal):** Compare nominal healthcare spending.
+- **Research And Development Budget:** Assess investments in innovation and technology.
+- **Inflation Rate:** Analyze the rate of inflation affecting prices.
+
+### Demographic Metrics:
+- **Land Size:** Compare the geographical area of countries.
+- **Unemployment Rate:** Understand employment challenges.
+- **Population:** Examine the size of a country's population.
+- **GDP Per Capita:** Assess economic well-being on a per-person basis.
+- **Population Density:** Understand the concentration of people within a country.
+
+By exploring and comparing these metrics through interactive visualizations and filters, users can develop a deeper understanding of global economic, demographic, and sociological trends. This data-driven exploration can lead to valuable insights and ideas for various purposes, including research, decision-making, and policy analysis.
+
+
 ## Interactive Visualizations
 
 - The project leverages the Python Plotly library to create six different interactive charts.
